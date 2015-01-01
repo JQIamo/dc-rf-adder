@@ -6,3 +6,6 @@ Used, for example, in the Sr lab to do parametric heating in our dipole trap. A 
 
 ## Characterization
 
+![DC Input Transfer Function](https://github.com/JQIamo/dc-rf-adder/blob/master/Characterization/DCTransferFunction.png)
+
+![RF Input Transfer Function](https://github.com/JQIamo/dc-rf-adder/blob/master/Characterization/RFTransferFunction.png)

@@ -4,6 +4,10 @@ Simple op-amp adder (4 channels), to add a DC offset to an RF signal.
 
 Used, for example, in the Sr lab to do parametric heating in our dipole trap. A small RF dither is added onto the DC setpoint sent to the dipole intensity lock.
 
+## 2CH Edgemount POT
+
+This circuit is a two-channel version, where the DC value is summed in via potentiometer.
+
 ## Characterization
 
 ![DC Input Transfer Function](https://github.com/JQIamo/dc-rf-adder/blob/master/Characterization/DCTransferFunction.png)
